@@ -39,7 +39,7 @@ Lets get started!
 
 ## Dataset
 
-https://www.kaggle.com/kmader/satellite-images-of-hurricane-damage
+https://drive.google.com/file/d/1QIJwA1VLh_WKM6uFXtkCGW7G_fbDRmfo/view?usp=sharing
 
 
 
@@ -102,6 +102,7 @@ Check out our [issues](https://github.com/ACM-VIT/Shakespeare-Translate/issues) 
 [Thillai Chithambaram](https://github.com/itzThillaiC), 
 [Manim Madhav](https://github.com/ManimMadhav)<br>
 **Contributors:** 
+
 <a href="https://github.com/ACM-VIT/hurricane-damage-detection/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=ACM-VIT/hurricane-damage-detection" />
 </a>
